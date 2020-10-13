@@ -1,4 +1,4 @@
-# Flappy-bird-game-dev  ![python](https://img.shields.io/badge/python-3-blue) ![pygame](https://img.shields.io/badge/pygame-.-brightgreen)
+# Flappy-bird-game-dev  ![python](https://img.shields.io/badge/python-3-blue) ![pygame](https://img.shields.io/badge/pygame-.-brightgreen) ![jupyter-notebook](https://img.shields.io/badge/jupyter%20-notebook-blue)
 ----------------------------
 ABOUT THE PROJECT
 ---------------------------
